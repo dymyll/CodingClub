@@ -1,0 +1,10 @@
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.deps.json
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.runtimeconfig.json
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.runtimeconfig.dev.json
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.dll
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.pdb
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.csproj.CoreCompileInputs.cache
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfoInputs.cache
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfo.cs
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.dll
+C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.pdb
