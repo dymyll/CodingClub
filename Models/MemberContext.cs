@@ -10,5 +10,7 @@ namespace CodingClub.Models
             {
             }
             public DbSet<Member> Members {get;set;}
+            
     }
+    
 }

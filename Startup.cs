@@ -22,11 +22,15 @@ namespace CodingClub
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services, IServiceCollection off)
         {
             services.AddMvc();
             services.AddDbContext<MemberContext>(options =>
                      options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+            off.AddMvc();         
+             off.AddDbContext<OfficerContext>(options =>
+                     options.UseSqlite(Configuration.GetConnectionString("OfficerConnection")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

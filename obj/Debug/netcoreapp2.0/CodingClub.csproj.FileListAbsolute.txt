@@ -8,3 +8,13 @@ C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2
 C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfo.cs
 C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.dll
 C:\Users\Dymyll\Documents\CIDM_4390\Assignment2\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.pdb
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.deps.json
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.runtimeconfig.json
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.runtimeconfig.dev.json
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.dll
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.pdb
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.csproj.CoreCompileInputs.cache
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfoInputs.cache
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfo.cs
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.dll
+C:\Users\ngwaw\Downloads\CIDM4690(SoftwareDev)\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.pdb
